@@ -3,4 +3,4 @@
   X-XSS-Protection: 1; mode=block
   Content-Security-Policy: script-src 'self'
   Referrer-Policy: no-referrer
-  Feature-Policy: geolocation 'self' https://example.com; microphone 'none'
+  Feature-Policy: geolocation 'self' https://peaceful-naiad-6f6496.netlify.app/; microphone 'none'

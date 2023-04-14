@@ -3,6 +3,3 @@
   X-XSS-Protection: 1; mode=block
   Content-Security-Policy: script-src 'self'
   Referrer-Policy: no-referrer
-  X-Content-Type-Options "nosniff" always;
-  Header always set X-Content-Type-Options "nosniff"
-  Header always set X-Content-Type-Options "nosniff"

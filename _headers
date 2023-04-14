@@ -3,3 +3,4 @@
   X-XSS-Protection: 1; mode=block
   Content-Security-Policy: script-src 'self'
   Referrer-Policy: no-referrer
+  Feature-Policy: geolocation 'self' https://example.com; microphone 'none'
